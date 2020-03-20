@@ -39,3 +39,5 @@ if [ -f '/Users/thomasbarach/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/th
 
 # The next line enables shell command completion for gcloud.
 if [ -f '/Users/thomasbarach/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/thomasbarach/google-cloud-sdk/completion.zsh.inc'; fi
+
+eval "$(thefuck --alias)"
