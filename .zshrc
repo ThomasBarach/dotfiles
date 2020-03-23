@@ -20,6 +20,7 @@ antigen bundle colored-man-pages
 antigen bundle colorize
 antigen bundle common-aliases
 antigen bundle copyfile
+antigen bundle terraform
 antigen bundle littleq0903/gcloud-zsh-completion
 antigen bundle nnao45/zsh-kubectl-completion
 
