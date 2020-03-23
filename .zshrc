@@ -23,6 +23,7 @@ antigen bundle copyfile
 antigen bundle terraform
 antigen bundle littleq0903/gcloud-zsh-completion
 antigen bundle nnao45/zsh-kubectl-completion
+antigen bundle ansible
 
 antigen theme denysdovhan/spaceship-prompt
 antigen apply
